@@ -37,3 +37,9 @@ public:
 
 };
 
+int main() {
+	Mahasiswa mhs; // step 1
+	Matakuliah mk;
+
+
+	
