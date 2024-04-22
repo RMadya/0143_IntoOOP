@@ -21,4 +21,5 @@ public:
 		return panjang * Lebar; // step 2
 
 	}
-	
+	void display() {
+		
