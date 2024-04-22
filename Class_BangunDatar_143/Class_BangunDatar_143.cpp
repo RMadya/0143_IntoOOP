@@ -17,4 +17,5 @@ public:
 		cout << "Masukkan Lebarnya = "; // step 1
 		cin >> Lebar;
 	}
-	
+	float hitungLuas() {
+		
