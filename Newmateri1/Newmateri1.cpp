@@ -50,4 +50,5 @@ int main() {
 	mk.input();
 	mk.output(); // step 3
 
-	
+	return 0;
+}
