@@ -42,4 +42,9 @@ int main() {
 	Matakuliah mk;
 
 
+	mhs.nama = "Budi";
+	mhs.umur = 20;
+	mhs.jurusan = "Teknik Informatika"; // step 2
+	mhs.output();
+
 	
