@@ -18,3 +18,14 @@ private:
 	string kodeMK;
 	string namaMK;
 	string sks;
+public:
+	void input() {
+		cout << "Kode MK: ";
+		cin >> kodeMK;
+		cout << "Nama MK: "; // step 1
+		cin >> namaMK;
+		cout << "SKS: ";
+		cin >> sks;
+	}
+
+	
